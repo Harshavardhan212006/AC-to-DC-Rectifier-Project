@@ -73,15 +73,3 @@ The design successfully demonstrated AC-to-DC conversion with effective rectific
 
 ---
 
-## 9. Team Details
-- Y Harshavardhan Reddy  
-- Yakkanti V S S Siddharth Reddy  
-- Chaitanya Krishna Brahmam  
-
----
-
-## 10. Academic Details
-B.Tech – Electronics and Communication Engineering  
-Amrita School of Engineering, Bengaluru  
-Course: 23ECE185 – Electronic Devices and Circuits Lab  
-Academic Year: 2023–2024
