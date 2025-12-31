@@ -54,8 +54,10 @@ Key Processes:
 - System demonstrated reliable performance
 
 (Insert images in GitHub repo)
-- `/Circuit_Diagrams/`
-- `/Output_Screenshots/`
+- <img width="960" height="1280" alt="img 1" src="https://github.com/user-attachments/assets/d462213b-42a7-4928-8eb6-558ddcdd734a" />
+
+- <img width="1280" height="960" alt="img 2" src="https://github.com/user-attachments/assets/9c0e7466-32e5-4a9f-b9cf-4cb1f00bb8ec" />
+
 
 ---
 
